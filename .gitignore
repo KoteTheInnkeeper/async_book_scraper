@@ -1,0 +1,8 @@
+# venv
+/venv
+
+# log files
+log.txt
+
+# vscode cache
+*.pyc

@@ -1,0 +1,305 @@
+04-02-2021 12:07:54 INFO     [app.py:14] Loading books list...
+04-02-2021 12:21:55 INFO     [app.py:14] Loading books list...
+04-02-2021 12:22:40 INFO     [app.py:14] Loading books list...
+04-02-2021 12:22:41 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:41 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:42 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:42 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:43 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:43 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:43 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:43 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:44 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:44 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:45 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:45 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:45 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:45 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:46 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:46 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:47 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:47 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:47 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:47 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:48 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:48 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:49 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:49 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:49 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:50 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:50 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:50 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:51 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:51 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:52 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:52 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:53 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:53 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:53 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:53 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:54 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:54 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:55 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:55 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:56 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:56 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:56 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:56 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:57 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:57 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:58 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:58 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:58 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:58 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:22:59 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:22:59 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:00 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:00 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:00 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:00 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:01 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:01 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:02 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:02 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:02 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:02 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:03 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:03 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:04 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:04 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:04 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:05 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:05 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:05 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:06 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:06 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:07 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:07 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:07 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:07 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:08 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:08 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:09 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:09 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:09 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:09 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:10 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:10 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:11 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:11 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:11 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:11 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:12 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:12 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:13 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:13 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:13 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:13 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:14 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:14 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:15 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:15 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+04-02-2021 12:23:15 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+04-02-2021 12:23:15 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:41:55 INFO     [app.py:14] Loading books list...
+17-02-2021 07:41:57 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:41:57 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:41:57 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:41:57 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:41:58 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:41:58 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:41:59 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:41:59 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:41:59 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:41:59 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:00 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:00 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:01 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:01 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:01 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:01 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:02 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:02 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:03 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:03 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:03 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:03 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:04 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:04 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:05 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:05 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:05 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:05 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:06 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:06 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:07 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:07 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:07 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:07 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:08 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:08 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:09 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:09 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:09 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:09 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:10 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:10 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:11 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:11 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:11 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:11 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:12 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:12 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:13 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:13 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:13 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:13 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:14 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:14 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:15 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:15 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:15 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:15 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:16 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:16 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:17 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:17 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:17 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:17 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:18 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:18 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:19 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:19 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:19 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:19 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:20 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:20 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:21 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:21 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:21 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:21 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:22 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:22 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:23 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:23 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:23 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:23 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:24 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:24 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:25 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:25 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:25 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:25 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:26 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:26 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:27 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:27 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:27 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:27 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:28 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:28 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:29 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:29 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:42:29 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:42:29 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:45 INFO     [app.py:14] Loading books list...
+17-02-2021 07:43:46 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:46 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:47 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:47 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:48 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:48 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:48 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:48 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:49 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:49 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:50 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:50 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:50 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:50 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:51 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:51 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:52 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:52 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:52 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:52 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:53 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:53 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:54 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:54 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:54 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:54 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:55 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:55 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:56 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:56 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:56 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:56 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:57 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:57 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:58 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:58 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:58 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:58 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:43:59 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:43:59 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:00 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:00 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:00 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:00 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:01 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:01 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:02 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:02 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:02 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:02 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:03 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:03 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:04 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:04 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:04 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:04 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:05 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:05 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:06 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:06 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:06 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:06 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:07 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:07 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:08 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:08 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:08 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:09 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:09 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:09 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:10 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:10 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:11 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:11 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:11 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:11 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:12 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:12 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:13 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:13 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:13 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:13 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:21 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:22 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:22 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:22 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:23 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:23 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:23 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:24 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:24 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:24 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:25 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:25 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:25 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:26 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:26 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:26 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
+17-02-2021 07:44:27 INFO     [all_books_page.py:14] Parsing page content with BeautifulSoup4.
+17-02-2021 07:44:27 INFO     [all_books_page.py:19] Finding all books in the page using 'section div ol.row li.col-xs-6.col-sm-4.col-md-3.col-lg-3'.
