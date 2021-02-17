@@ -2,7 +2,7 @@
 /venv
 
 # log files
-log.txt
+/log.txt
 
 # vscode cache
 *.pyc
