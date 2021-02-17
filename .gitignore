@@ -6,3 +6,6 @@
 
 # vscode cache
 *.pyc
+
+# created by pipenv
+Pipfile

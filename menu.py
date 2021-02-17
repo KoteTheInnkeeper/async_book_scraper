@@ -59,6 +59,5 @@ def main_menu():
 
 
 print(USER_CHOICE)
-_ = True
-while _:
+while True:
     main_menu()

@@ -9,10 +9,9 @@ from parser.book_parser import BookParser
 logger = logging.getLogger('scraping.all_books_page')
 
 class BooksInPage:
-    def __init__(self, url: str):
-        page_content = str(requests.get(url).content)
+    def __init__(self, content):
         logger.info("Parsing page content with BeautifulSoup4.")
-        self.soup = BeautifulSoup(page_content, 'html.parser')
+        self.soup = BeautifulSoup(content, 'html.parser')
 
     @property
     def books(self) -> list:
