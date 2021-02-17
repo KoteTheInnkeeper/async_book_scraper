@@ -5,6 +5,9 @@ import aiohttp
 import asyncio # for managing the coroutines
 import time
 
+
+from async_timeout import timeout
+
 # A co-routine. This was the original 'fetch_page' function, but it wasn't really efficient because of the session creation process.
 async def unused(url: str):
     page_start = time.time()
@@ -21,9 +24,10 @@ async def unused(url: str):
 
 async def fetch_page(session: aiohttp.ClientSession, url: str):
     page_start = time.time()
-    async with session.get(url) as response:
-        print(f"Page took {time.time() - page_start} seconds to fetch.")
-        return response.status
+    with timeout(30):   # In case one of the task takes more than 30s to be completed, just treat them as an error.
+        async with session.get(url) as response:
+            print(f"Page took {time.time() - page_start} seconds to fetch.")
+            return response.status
 
 
 async def get_multiple_pages(loop, *urls):
